@@ -3,6 +3,7 @@
 
 
 print('hai. im veissya. how are you today?')
+
 print('well. you'll look my work at this file')
 
 
@@ -32,13 +33,15 @@ addres = input('can you write your addres here? ')
 
 fahrenheit = 68
 celsius = (fahrenheit - 32) / 1.8
-print(celsius)
+
+  print(celsius)
 
 #BMI app
 
 mass = 47
 height = 1.46
 bmi = mass / (height**2) 
-print(bmi)
+
+  print(bmi)
 
 #got it.
