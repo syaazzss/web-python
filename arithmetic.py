@@ -4,7 +4,7 @@
 
 print('hai. im veissya. how are you today?')
 
-print('well. you'll look my work at this file')
+print('well. youll look my work at this file')
 
 
 #in second. i have practiced for initial maker...
