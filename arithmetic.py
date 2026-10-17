@@ -24,7 +24,7 @@ print('                yyy')
 
 username = input('hi... whats your name? ')
 age = int(input(' how old are u? '))
-addres = input('can you write your addres here? ')
+address = input('can you write your address here? ')
 
 #you may use this in every app....
 #we jump again...wohoooo...👾👾
