@@ -43,3 +43,19 @@ height = 1.46
 bmi = mass / (height**2) 
 
   print(bmi)
+
+#ok...got it.
+#now,this is how the bank working.
+
+username = Lady
+user_id = 094566578 
+balance = 500000
+bonus_xp = 6000
+verified = True
+
+#WARNING❗❗❗ THIS USERNAME AND USER ID JUST FOR EXAMPLE❗
+
+balance = 500000
+cash_withdrawal = 230000
+
+
