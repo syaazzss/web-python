@@ -88,12 +88,12 @@ total = riyal * rupiah
 #see? it'll be arrive to your mother with rupiahs currency 💵.
 #know, I'll show you the phyton phytagorase teorsm...
 
-side a = 6 #it means 6 m
-side b = 3 #it means 3 m
+side_a = 6 #it means 6 m
+side_b = 3 #it means 3 m
 
-side c = (side a**2 + side b**2) **0.5 
+side_c = (side_a**2 + side_b**2) **0.5 
 
- print(side c)
+ print(side_c)
 
 
 
