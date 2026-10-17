@@ -78,7 +78,7 @@ total = balance + deposit + bonus_xp_app
 #do you wanna know how is money changer app working? Let me try this🙂
 #you are in Saudi Arabia. you want to give your mom moneys. it'll be like this....
 
-riyal = float(input('how much do you want? ')
+riyal = float(input('how much do you want? '))
 rupiah = 4805
 
 total = riyal * rupiah
