@@ -47,7 +47,7 @@ bmi = mass / (height**2)
 #ok...got it.
 #now,this is how the bank working.
 
-username = Lady
+username = 'Lady'
 user_id = 094566578 
 balance = 500000
 bonus_xp = 6000
