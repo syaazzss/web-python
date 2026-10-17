@@ -57,5 +57,34 @@ verified = True
 
 balance = 500000
 cash_withdrawal = 230000
+bank = 'virtual_account'
+admin fees = 'free'
+account = 01234567
+verified = True
+
+total = balance + cash_withdrawal
+
+   print(total)
+
+balance = 370000
+deposit = 300000
+bonus_xp_app = 5000
+verified = True
+
+total = balance + deposit + bonus_xp_app
+
+  print(total)
+
+#do you wanna to know how is money changer app working? Let me try this🙂
+#you are in Saudi Arabia. you want to give your mom moneys. it'll be like this....
+
+riyal = float(input('how much do you want? ')
+rupiah = 4805
+
+total = riyal * rupiah
+
+  print(total)
+
+#see? it'll be arrive to your mother with rupiahs currency 💵.
 
 
