@@ -75,7 +75,7 @@ total = balance + deposit + bonus_xp_app
 
   print(total)
 
-#do you wanna to know how is money changer app working? Let me try this🙂
+#do you wanna know how is money changer app working? Let me try this🙂
 #you are in Saudi Arabia. you want to give your mom moneys. it'll be like this....
 
 riyal = float(input('how much do you want? ')
@@ -86,5 +86,15 @@ total = riyal * rupiah
   print(total)
 
 #see? it'll be arrive to your mother with rupiahs currency 💵.
+#know, I'll show you the phyton phytagorase teorsm...
+
+side a = 6 #it means 6 m
+side b = 3 #it means 3 m
+
+side c = (side a**2 + side b**2) **0.5 
+
+ print(side c)
+
+
 
 
