@@ -22,7 +22,7 @@ print('                yyy')
 #naaahhh... this is my first initial💜💜
 #and... we jump to input python 
 
-username = input('hi... what's your name? ')
+username = input('hi... whats your name? ')
 age = int(input(' how old are u? '))
 addres = input('can you write your addres here? ')
 
