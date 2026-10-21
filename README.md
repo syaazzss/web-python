@@ -1,2 +1,2 @@
-# web-python
+# exercise-python
 my first web in python💜💜🌹
